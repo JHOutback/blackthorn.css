@@ -13,14 +13,8 @@
     font-size: 1rem;
     font-weight: 500;
 }
-.group-name[_ngcontent-dhx-c199] h1[_ngcontent-dhx-c199] {
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-    flex: 1 1 auto;
-    font-size: 1.25rem;
-    line-height: calc(2.25rem*var(--lineHeightFactor));
-    font-weight: 400;
-    color: #fff;
-    margin: 0;
+.group-name[_ngcontent-ihw-c199] {
+    max-width: 70%;
+    display: none;
+    align-items: center;
 }
