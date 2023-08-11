@@ -19,7 +19,7 @@
     align-items: center;
 }
 .uwy {visibility: hidden}
-.group-name[_ngcontent-lxj-c199] h1[_ngcontent-lxj-c199] {
+.group-name[_ngcontent-ymu-c199] h1[_ngcontent-ymu-c199] {
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
@@ -29,5 +29,5 @@
     font-weight: 400;
     color: var(--surfaceTextColor);
     margin: 0;
-    display: none;
+    visibility: hidden;
 }
