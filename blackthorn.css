@@ -19,4 +19,15 @@
     align-items: center;
 }
 .uwy {visibility: hidden}
-.h1.ng-star-inserted {display: Your registration is complete!}
+.group-name[_ngcontent-lxj-c199] h1[_ngcontent-lxj-c199] {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    flex: 1 1 auto;
+    font-size: 1.25rem;
+    line-height: calc(2.25rem*var(--lineHeightFactor));
+    font-weight: 400;
+    color: var(--surfaceTextColor);
+    margin: 0;
+    display: none;
+}
