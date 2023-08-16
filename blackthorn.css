@@ -17,3 +17,10 @@
 .group-name[_ngcontent-tia-c199] h1[_ngcontent-tia-c199] {
     display: none;
 }
+.siteforceThemeLayoutStarter {
+    position: relative;
+    z-index: 1;
+    font-size: 1.3125rem;
+    width: 100%;
+    touch-action: manipulation;
+}
