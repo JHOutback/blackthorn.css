@@ -20,7 +20,7 @@
 .siteforceThemeLayoutStarter {
     position: relative;
     z-index: 1;
-    font-size: 1.3125rem;
+    font-size: 1rem;
     width: 100%;
     touch-action: manipulation;
 }
