@@ -23,4 +23,4 @@
     width: 100%;
     touch-action: manipulation;
 }
-<span class="mat-button-wrapper"> Have a discount code? </span>
+.mat-button-wrapper { <span class="mat-button-wrapper"> Have a discount code? </span>}
