@@ -12,6 +12,12 @@
     font-size: 1rem;
     font-weight: 500;
 }
+.divider-description[_ngcontent-jkt-c246], .divider-title[_ngcontent-jkt-c246] {
+    font-size: 1.25rem;
+    line-height: 1.3;
+    font-weight: bold;
+    color: var(--surfaceTextColor);
+}
 .uwy {visibility: hidden}
 .group-name[_ngcontent-tia-c199] h1[_ngcontent-tia-c199] {
     display: none;
